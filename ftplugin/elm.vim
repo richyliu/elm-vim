@@ -35,7 +35,7 @@ if !exists('g:elm_setup_keybindings')
 	let g:elm_setup_keybindings = 1
 endif
 
-setlocal omnifunc=elm#Complete
+" setlocal omnifunc=elm#Complete
 
 setlocal comments=:--
 setlocal commentstring=--\ %s
